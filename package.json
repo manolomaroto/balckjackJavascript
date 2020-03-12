@@ -1,0 +1,23 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "Juego del blackjack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manolomaroto/balckjackJavascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ES6"
+  ],
+  "author": "Manuel González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manolomaroto/balckjackJavascript/issues"
+  },
+  "homepage": "https://github.com/manolomaroto/balckjackJavascript#readme"
+}
